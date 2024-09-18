@@ -12,4 +12,4 @@ Realizar a alteração do script_gerar_exe.py para o caminho da pasta do sistema
    / '--distpath', 'C:/Users/Daniel/Desktop/Calculadora',  # Diretório de saída
    
 
-Após realizado essesprocedimentos somente compilar o sistema!!!
+Após realizado esses procedimentos somente compilar o sistema!!!
